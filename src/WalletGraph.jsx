@@ -2,23 +2,35 @@ import React, { useEffect, useRef, useState } from "react";
 import cytoscape from "cytoscape";
 import coseBilkent from "cytoscape-cose-bilkent";
 import GraphControls from "./GraphControls";
+import demoHistory from "./demo_account_history.json";
+import demoTransfers from "./demo_transfers.json";
 
 cytoscape.use(coseBilkent);
 
 // Helper to load the wallet history JSON
 async function loadWalletHistory() {
-  const resp = await fetch("/account_history_5FZ3kzkS3t.json");
-  return resp.json();
+  try {
+    const resp = await fetch("./account_history_5FZ3kzkS3t.json");
+    if (resp.ok) {
+      return resp.json();
+    }
+  } catch (error) {
+    console.log("Using imported demo history data");
+  }
+  return demoHistory;
 }
 
 // Helper to load the wallet transfers JSON
 async function loadWalletTransfers() {
   try {
-    const resp = await fetch("/transfers_5FZ3kzkS3t.json");
-    return resp.json();
-  } catch {
-    return { transfers: [] };
+    const resp = await fetch("./transfers_5FZ3kzkS3t.json");
+    if (resp.ok) {
+      return resp.json();
+    }
+  } catch (error) {
+    console.log("Using imported demo transfers data");
   }
+  return demoTransfers;
 }
 
 function buildGraphElements(history, transfers, mainWallet) {
