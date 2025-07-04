@@ -7,14 +7,14 @@ cytoscape.use(coseBilkent);
 
 // Helper to load the wallet history JSON
 async function loadWalletHistory() {
-  const resp = await fetch("./account_history_5FZ3kzkS3t.json");
+  const resp = await fetch("/account_history_5FZ3kzkS3t.json");
   return resp.json();
 }
 
 // Helper to load the wallet transfers JSON
 async function loadWalletTransfers() {
   try {
-    const resp = await fetch("./transfers_5FZ3kzkS3t.json");
+    const resp = await fetch("/transfers_5FZ3kzkS3t.json");
     return resp.json();
   } catch {
     return { transfers: [] };

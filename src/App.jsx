@@ -35,7 +35,7 @@ export default function App() {
           pointerEvents: 'none'
         }}>
           <img
-            src="/bg-tile.png"
+            src="./bg-tile.png"
             alt="Avatar"
             style={{
               width: 64,

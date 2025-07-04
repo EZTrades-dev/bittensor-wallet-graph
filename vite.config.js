@@ -3,14 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/bittensor-wallet-graph/',
-  build: {
-    outDir: 'dist',
-    assetsDir: 'assets',
-    rollupOptions: {
-      input: {
-        main: 'index.html'
-      }
-    }
-  }
+  base: process.env.NODE_ENV === 'production' ? '/bittensor-wallet-graph/' : '/',
 }); 
