@@ -2,7 +2,14 @@
   "name": "bittensor-wallet-knowledge-graph",
   "version": "1.0.0",
   "description": "Interactive knowledge graph visualization for Bittensor wallet transactions",
-  "keywords": ["bittensor", "wallet", "knowledge-graph", "cytoscape", "react", "blockchain"],
+  "keywords": [
+    "bittensor",
+    "wallet",
+    "knowledge-graph",
+    "cytoscape",
+    "react",
+    "blockchain"
+  ],
   "author": "E_Z_Trades",
   "license": "MIT",
   "repository": {
@@ -11,14 +18,15 @@
   },
   "homepage": "https://EZTrades-dev.github.io/bittensor-wallet-graph",
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "cytoscape": "^3.26.0",
-    "cytoscape-cose-bilkent": "^4.0.0"
+    "cytoscape-cose-bilkent": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^4.0.0"
+    "@vitejs/plugin-react": "^4.0.0",
+    "gh-pages": "^6.3.0",
+    "vite": "^5.0.0"
   },
   "scripts": {
     "dev": "vite",
