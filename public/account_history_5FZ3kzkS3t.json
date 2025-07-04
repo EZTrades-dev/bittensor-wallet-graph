@@ -1,0 +1,924 @@
+{
+  "timestamp": "2025-07-03T19:45:59.466142",
+  "wallet_address": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+  "api_key": "tao-83b527cc-6c10-43...",
+  "status": {
+    "ok": true,
+    "version": "1.8.51",
+    "status": {
+      "timestamp": "2025-07-03T23:45:58.573150965Z"
+    }
+  },
+  "account_history": {
+    "pagination": {
+      "current_page": 1,
+      "per_page": 50,
+      "total_items": 807,
+      "total_pages": 17,
+      "next_page": 2,
+      "prev_page": null
+    },
+    "data": [
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5912212,
+        "timestamp": "2025-07-02T23:59:48Z",
+        "rank": 23,
+        "balance_free": "745390287",
+        "balance_staked": "46875785436404",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46875785436404",
+        "balance_total": "46876530826691",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5905012,
+        "timestamp": "2025-07-01T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46866331400053",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46866331400053",
+        "balance_total": "46867076790340",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5897812,
+        "timestamp": "2025-06-30T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46856449790672",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46856449790672",
+        "balance_total": "46857195180959",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5890612,
+        "timestamp": "2025-06-29T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46846253338534",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46846253338534",
+        "balance_total": "46846998728821",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5883412,
+        "timestamp": "2025-06-28T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46835929395530",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46835929395530",
+        "balance_total": "46836674785817",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5876212,
+        "timestamp": "2025-06-27T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46825653895455",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46825653895455",
+        "balance_total": "46826399285742",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5869012,
+        "timestamp": "2025-06-26T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46815265980973",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46815265980973",
+        "balance_total": "46816011371260",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5861812,
+        "timestamp": "2025-06-25T23:59:48Z",
+        "rank": 23,
+        "balance_free": "745390287",
+        "balance_staked": "46804960734222",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46804960734222",
+        "balance_total": "46805706124509",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5854612,
+        "timestamp": "2025-06-24T23:59:48Z",
+        "rank": 22,
+        "balance_free": "745390287",
+        "balance_staked": "46794589066044",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46794589066044",
+        "balance_total": "46795334456331",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5847412,
+        "timestamp": "2025-06-23T23:59:48Z",
+        "rank": 21,
+        "balance_free": "745390287",
+        "balance_staked": "46784238206275",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46784238206275",
+        "balance_total": "46784983596562",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5840212,
+        "timestamp": "2025-06-22T23:59:48Z",
+        "rank": 21,
+        "balance_free": "745390287",
+        "balance_staked": "46773951570413",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46773951570413",
+        "balance_total": "46774696960700",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5833012,
+        "timestamp": "2025-06-21T23:59:48Z",
+        "rank": 21,
+        "balance_free": "745390287",
+        "balance_staked": "46763549257586",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46763549257586",
+        "balance_total": "46764294647873",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5825812,
+        "timestamp": "2025-06-20T23:59:48Z",
+        "rank": 21,
+        "balance_free": "745390287",
+        "balance_staked": "46752949197839",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46752949197839",
+        "balance_total": "46753694588126",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5818612,
+        "timestamp": "2025-06-19T23:59:48.001Z",
+        "rank": 21,
+        "balance_free": "745390287",
+        "balance_staked": "46742033520898",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46742033520898",
+        "balance_total": "46742778911185",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5811412,
+        "timestamp": "2025-06-18T23:59:48Z",
+        "rank": 21,
+        "balance_free": "745390287",
+        "balance_staked": "46730783708251",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46730783708251",
+        "balance_total": "46731529098538",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5804212,
+        "timestamp": "2025-06-17T23:59:48Z",
+        "rank": 20,
+        "balance_free": "745390287",
+        "balance_staked": "46719322187383",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "46719322187383",
+        "balance_total": "46720067577670",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5797012,
+        "timestamp": "2025-06-16T23:59:48Z",
+        "rank": 18,
+        "balance_free": "745575550",
+        "balance_staked": "52503562415463",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52503562415463",
+        "balance_total": "52504307991013",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5789812,
+        "timestamp": "2025-06-15T23:59:48Z",
+        "rank": 18,
+        "balance_free": "745575550",
+        "balance_staked": "52490273764301",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52490273764301",
+        "balance_total": "52491019339851",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5782615,
+        "timestamp": "2025-06-14T23:59:48.001Z",
+        "rank": 18,
+        "balance_free": "745575550",
+        "balance_staked": "52476345698622",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52476345698622",
+        "balance_total": "52477091274172",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5775415,
+        "timestamp": "2025-06-13T23:59:48.001Z",
+        "rank": 18,
+        "balance_free": "745575550",
+        "balance_staked": "52461965336617",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52461965336617",
+        "balance_total": "52462710912167",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5768215,
+        "timestamp": "2025-06-12T23:59:48Z",
+        "rank": 18,
+        "balance_free": "745575550",
+        "balance_staked": "52447883945453",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52447883945453",
+        "balance_total": "52448629521003",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5761015,
+        "timestamp": "2025-06-11T23:59:48.001Z",
+        "rank": 18,
+        "balance_free": "745575550",
+        "balance_staked": "52433824702979",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52433824702979",
+        "balance_total": "52434570278529",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5753815,
+        "timestamp": "2025-06-10T23:59:48Z",
+        "rank": 19,
+        "balance_free": "745575550",
+        "balance_staked": "52419595080788",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "52419595080788",
+        "balance_total": "52420340656338",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5746615,
+        "timestamp": "2025-06-09T23:59:48Z",
+        "rank": 15,
+        "balance_free": "745760813",
+        "balance_staked": "57102733709033",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57102733709033",
+        "balance_total": "57103479469846",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5739415,
+        "timestamp": "2025-06-08T23:59:48Z",
+        "rank": 15,
+        "balance_free": "745760813",
+        "balance_staked": "57086238636084",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57086238636084",
+        "balance_total": "57086984396897",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5732215,
+        "timestamp": "2025-06-07T23:59:48Z",
+        "rank": 15,
+        "balance_free": "745760813",
+        "balance_staked": "57069496362490",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57069496362490",
+        "balance_total": "57070242123303",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5725015,
+        "timestamp": "2025-06-06T23:59:48.001Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "57053033304739",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57053033304739",
+        "balance_total": "57053779065552",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5717815,
+        "timestamp": "2025-06-05T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "57036977575323",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57036977575323",
+        "balance_total": "57037723336136",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5710616,
+        "timestamp": "2025-06-04T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "57020198883940",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57020198883940",
+        "balance_total": "57020944644753",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5703424,
+        "timestamp": "2025-06-03T23:59:48.001Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "57002708986449",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "57002708986449",
+        "balance_total": "57003454747262",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5696224,
+        "timestamp": "2025-06-02T23:59:48Z",
+        "rank": 15,
+        "balance_free": "745760813",
+        "balance_staked": "56985702771562",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56985702771562",
+        "balance_total": "56986448532375",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5689024,
+        "timestamp": "2025-06-01T23:59:48.001Z",
+        "rank": 15,
+        "balance_free": "745760813",
+        "balance_staked": "56968233517214",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56968233517214",
+        "balance_total": "56968979278027",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5681824,
+        "timestamp": "2025-05-31T23:59:48.001Z",
+        "rank": 15,
+        "balance_free": "745760813",
+        "balance_staked": "56950226681807",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56950226681807",
+        "balance_total": "56950972442620",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5674624,
+        "timestamp": "2025-05-30T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56931881113720",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56931881113720",
+        "balance_total": "56932626874533",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5667465,
+        "timestamp": "2025-05-29T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56913345519923",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56913345519923",
+        "balance_total": "56914091280736",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5660281,
+        "timestamp": "2025-05-28T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56894416280497",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56894416280497",
+        "balance_total": "56895162041310",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5653081,
+        "timestamp": "2025-05-27T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56874512221418",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56874512221418",
+        "balance_total": "56875257982231",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5645881,
+        "timestamp": "2025-05-26T23:59:48.001Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56853993706381",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56853993706381",
+        "balance_total": "56854739467194",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5638681,
+        "timestamp": "2025-05-25T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56833628034992",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56833628034992",
+        "balance_total": "56834373795805",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5631481,
+        "timestamp": "2025-05-24T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56813202251297",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56813202251297",
+        "balance_total": "56813948012110",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5624281,
+        "timestamp": "2025-05-23T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56792810651424",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56792810651424",
+        "balance_total": "56793556412237",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5617099,
+        "timestamp": "2025-05-22T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745760813",
+        "balance_staked": "56772833127023",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "56772833127023",
+        "balance_total": "56773578887836",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5613848,
+        "timestamp": "2025-05-21T23:46:12.001Z",
+        "rank": 16,
+        "balance_free": "745946076",
+        "balance_staked": "59575855316212",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "59575855316212",
+        "balance_total": "59576601262288",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5611658,
+        "timestamp": "2025-05-20T22:05:12Z",
+        "rank": 16,
+        "balance_free": "745946076",
+        "balance_staked": "59569091440319",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "59569091440319",
+        "balance_total": "59569837386395",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5605031,
+        "timestamp": "2025-05-19T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745946076",
+        "balance_staked": "59549400406315",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "59549400406315",
+        "balance_total": "59550146352391",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5597831,
+        "timestamp": "2025-05-18T23:59:48.001Z",
+        "rank": 16,
+        "balance_free": "745946076",
+        "balance_staked": "59527855868931",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "59527855868931",
+        "balance_total": "59528601815007",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5590631,
+        "timestamp": "2025-05-17T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745946076",
+        "balance_staked": "59506124426677",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "59506124426677",
+        "balance_total": "59506870372753",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5583431,
+        "timestamp": "2025-05-16T23:59:48Z",
+        "rank": 16,
+        "balance_free": "745946076",
+        "balance_staked": "59484233497758",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "59484233497758",
+        "balance_total": "59484979443834",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5576231,
+        "timestamp": "2025-05-15T23:59:48Z",
+        "rank": 14,
+        "balance_free": "746131339",
+        "balance_staked": "63960619797342",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "63960619797342",
+        "balance_total": "63961365928681",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      },
+      {
+        "address": {
+          "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+          "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+        },
+        "network": "finney",
+        "block_number": 5569031,
+        "timestamp": "2025-05-14T23:59:48.001Z",
+        "rank": 14,
+        "balance_free": "746131339",
+        "balance_staked": "63937297020243",
+        "balance_staked_alpha_as_tao": "0",
+        "balance_staked_root": "63937297020243",
+        "balance_total": "63938043151582",
+        "created_on_date": "2023-04-18",
+        "created_on_network": "finney",
+        "coldkey_swap": null
+      }
+    ]
+  }
+}

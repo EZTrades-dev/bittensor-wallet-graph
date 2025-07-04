@@ -1,0 +1,385 @@
+{
+  "timestamp": "2025-07-03T20:12:28.076519",
+  "wallet": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+  "network": "finney",
+  "transfers": [
+    {
+      "id": "finney-5802497-0106",
+      "to": {
+        "ss58": "5DvjnLD79DuUFnmRNakrJYfN5suEKfSgqyBkvs7pddDpoYk9",
+        "hex": "0x5264fc0ca1654682343d9627899cb7b8d9a1a0fbb1860e3ece7de988b481c718"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 5802497,
+      "timestamp": "2025-06-17T18:16:48Z",
+      "amount": "5797000000000",
+      "fee": "135263",
+      "transaction_hash": "0x96052de02a99daa2be54c25cf8eda01b9172fb2dc451b01474103b4eae052384",
+      "extrinsic_id": "5802497-0022"
+    },
+    {
+      "id": "finney-5752377-0076",
+      "to": {
+        "ss58": "5DvjnLD79DuUFnmRNakrJYfN5suEKfSgqyBkvs7pddDpoYk9",
+        "hex": "0x5264fc0ca1654682343d9627899cb7b8d9a1a0fbb1860e3ece7de988b481c718"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 5752377,
+      "timestamp": "2025-06-10T19:12:12.001Z",
+      "amount": "4698800000000",
+      "fee": "135263",
+      "transaction_hash": "0xec56d9c29b3338682df2b46e8d149a2879478dfb8573349a55e1eea403619210",
+      "extrinsic_id": "5752377-0016"
+    },
+    {
+      "id": "finney-5615943-0088",
+      "to": {
+        "ss58": "5DvjnLD79DuUFnmRNakrJYfN5suEKfSgqyBkvs7pddDpoYk9",
+        "hex": "0x5264fc0ca1654682343d9627899cb7b8d9a1a0fbb1860e3ece7de988b481c718"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 5615943,
+      "timestamp": "2025-05-22T20:07:48Z",
+      "amount": "2812500000000",
+      "fee": "135263",
+      "transaction_hash": "0x5d7e9f6cfeb5fb5fb003ec23415c9d450558e8d51cae16babaefb9e1612d48dc",
+      "extrinsic_id": "5615943-0018"
+    },
+    {
+      "id": "finney-5581616-0034",
+      "to": {
+        "ss58": "5DvjnLD79DuUFnmRNakrJYfN5suEKfSgqyBkvs7pddDpoYk9",
+        "hex": "0x5264fc0ca1654682343d9627899cb7b8d9a1a0fbb1860e3ece7de988b481c718"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 5581616,
+      "timestamp": "2025-05-16T17:56:48Z",
+      "amount": "4500000000000",
+      "fee": "135263",
+      "transaction_hash": "0xb9db9ec0ad62b18946100391c1a6c1c2067aa4aab46b2938aa0159667d1d52ce",
+      "extrinsic_id": "5581616-0012"
+    },
+    {
+      "id": "finney-5170985-0036",
+      "to": {
+        "ss58": "5DkUHRgF3jGjtDNcGhMcUwHRhdY4a9N1yaFrCvDwmLS6NVa2",
+        "hex": "0x4a905bbc77e3f637bd98cd0e300c2392838d24f10e2033af45d758c10a27b816"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 5170985,
+      "timestamp": "2025-03-20T17:10:36.001Z",
+      "amount": "151685757900",
+      "fee": "135262",
+      "transaction_hash": "0x233be8fc52a3bff173eed3d32fbf163d3d81dd600dd64d45e7f027669d920dd4",
+      "extrinsic_id": "5170985-0011"
+    },
+    {
+      "id": "finney-5170799-0022",
+      "to": {
+        "ss58": "5DkUHRgF3jGjtDNcGhMcUwHRhdY4a9N1yaFrCvDwmLS6NVa2",
+        "hex": "0x4a905bbc77e3f637bd98cd0e300c2392838d24f10e2033af45d758c10a27b816"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 5170799,
+      "timestamp": "2025-03-20T16:33:24.001Z",
+      "amount": "10000000",
+      "fee": "135260",
+      "transaction_hash": "0x7ab251c05264504895fbd75aa68baa6eb7cee9c313387b3347163a3154a8cdf7",
+      "extrinsic_id": "5170799-0006"
+    },
+    {
+      "id": "finney-4919340-0083",
+      "to": {
+        "ss58": "5DvjnLD79DuUFnmRNakrJYfN5suEKfSgqyBkvs7pddDpoYk9",
+        "hex": "0x5264fc0ca1654682343d9627899cb7b8d9a1a0fbb1860e3ece7de988b481c718"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4919340,
+      "timestamp": "2025-02-13T18:18:36Z",
+      "amount": "727386300000",
+      "fee": "135262",
+      "transaction_hash": "0xa54fee5bceee1c17d5a380829c58636f48cea5aa9bd81e01b599ee3e829cb6c9",
+      "extrinsic_id": "4919340-0019"
+    },
+    {
+      "id": "finney-4919015-0019",
+      "to": {
+        "ss58": "5DvjnLD79DuUFnmRNakrJYfN5suEKfSgqyBkvs7pddDpoYk9",
+        "hex": "0x5264fc0ca1654682343d9627899cb7b8d9a1a0fbb1860e3ece7de988b481c718"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4919015,
+      "timestamp": "2025-02-13T17:13:36Z",
+      "amount": "133700000",
+      "fee": "135260",
+      "transaction_hash": "0x535bfdffbdf3ac94807fe1e5ecd1012473f0162d662aba9dd80d0af7420dcad8",
+      "extrinsic_id": "4919015-0008"
+    },
+    {
+      "id": "finney-4518104-0030",
+      "to": {
+        "ss58": "5GBMXTMV7A6wt1VwjjJ8wGvAto7BsGXn2YMZWLef1ZmTEbfY",
+        "hex": "0xb60335e2ccf9cefd70c883e37f0878cc7995cb3f329b8e1acd990193181bec06"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4518104,
+      "timestamp": "2024-12-19T20:55:00Z",
+      "amount": "64000000000",
+      "fee": "135262",
+      "transaction_hash": "0x727d9457e2167184634e76c5fd908ca94ac92c82d22b084a84c7aa11c6a99d5a",
+      "extrinsic_id": "4518104-0015"
+    },
+    {
+      "id": "finney-4518079-0041",
+      "to": {
+        "ss58": "5GBMXTMV7A6wt1VwjjJ8wGvAto7BsGXn2YMZWLef1ZmTEbfY",
+        "hex": "0xb60335e2ccf9cefd70c883e37f0878cc7995cb3f329b8e1acd990193181bec06"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4518079,
+      "timestamp": "2024-12-19T20:50:00Z",
+      "amount": "637648322",
+      "fee": "135260",
+      "transaction_hash": "0xd96743d7c52aab5254cee45eb909536889cca029e77c759d921f0f08dab8d465",
+      "extrinsic_id": "4518079-0016"
+    },
+    {
+      "id": "finney-4503393-0039",
+      "to": {
+        "ss58": "5CsRaRJSc1Y5XAdhF3wzjtjzc1kZCGqW64D38JXMp8NNV36n",
+        "hex": "0x23a1bae92352ae54f54579d471239c0cd0923f96fd1591955cb89e60b7a88290"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4503393,
+      "timestamp": "2024-12-17T19:50:12Z",
+      "amount": "6832900000000",
+      "fee": "135263",
+      "transaction_hash": "0x0360af4c66382dc14433ca6ec45ba1ae489755626354c9b2b695cd9c3ee89c60",
+      "extrinsic_id": "4503393-0018"
+    },
+    {
+      "id": "finney-4503365-0032",
+      "to": {
+        "ss58": "5CsRaRJSc1Y5XAdhF3wzjtjzc1kZCGqW64D38JXMp8NNV36n",
+        "hex": "0x23a1bae92352ae54f54579d471239c0cd0923f96fd1591955cb89e60b7a88290"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4503365,
+      "timestamp": "2024-12-17T19:44:36Z",
+      "amount": "100000000",
+      "fee": "135260",
+      "transaction_hash": "0x2dc82aeb8a6fb8ca8e362d394b253a1ffdf5fa3a6e90acf2ec7bcc8cd2c419ba",
+      "extrinsic_id": "4503365-0015"
+    },
+    {
+      "id": "finney-4452560-0047",
+      "to": {
+        "ss58": "5CsRaRJSc1Y5XAdhF3wzjtjzc1kZCGqW64D38JXMp8NNV36n",
+        "hex": "0x23a1bae92352ae54f54579d471239c0cd0923f96fd1591955cb89e60b7a88290"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4452560,
+      "timestamp": "2024-12-10T18:20:36Z",
+      "amount": "100000000",
+      "fee": "135261",
+      "transaction_hash": "0x4bc112356f5dd5b49717fb1d9101441a065d54b28e305c96a1e108663243eeca",
+      "extrinsic_id": "4452560-0015"
+    },
+    {
+      "id": "finney-4402322-0041",
+      "to": {
+        "ss58": "5CsRaRJSc1Y5XAdhF3wzjtjzc1kZCGqW64D38JXMp8NNV36n",
+        "hex": "0x23a1bae92352ae54f54579d471239c0cd0923f96fd1591955cb89e60b7a88290"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4402322,
+      "timestamp": "2024-12-03T18:48:48.001Z",
+      "amount": "8089900000000",
+      "fee": "135264",
+      "transaction_hash": "0xd4725bab90d87053a7ae16a552970fb04b1335e4da61e1e39c314e9a3f2932b2",
+      "extrinsic_id": "4402322-0014"
+    },
+    {
+      "id": "finney-4402276-0025",
+      "to": {
+        "ss58": "5CsRaRJSc1Y5XAdhF3wzjtjzc1kZCGqW64D38JXMp8NNV36n",
+        "hex": "0x23a1bae92352ae54f54579d471239c0cd0923f96fd1591955cb89e60b7a88290"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4402276,
+      "timestamp": "2024-12-03T18:39:36Z",
+      "amount": "100000000",
+      "fee": "135261",
+      "transaction_hash": "0x5bdb1d8a683e1b827fd52f424d9e9bcb31f074fe8f74b55ce2f959a635377f0a",
+      "extrinsic_id": "4402276-0009"
+    },
+    {
+      "id": "finney-4165107-0038",
+      "to": {
+        "ss58": "5EKAif73wTP48Tv5svoUi5DsQbrCjgKrvdPd6RrNfPZ11n9e",
+        "hex": "0x638053e528ffe3a54e5e7932e262065c1430ffb2ed2a6f288ba041fa3573b8bb"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4165107,
+      "timestamp": "2024-10-31T18:05:24Z",
+      "amount": "8089000000000",
+      "fee": "124562",
+      "transaction_hash": "0x64241eb7fe1bdf7f29d3120c34363b34350bc102c9f92a4c3114596f0d902a61",
+      "extrinsic_id": "4165107-0013"
+    },
+    {
+      "id": "finney-4165017-0033",
+      "to": {
+        "ss58": "5EKAif73wTP48Tv5svoUi5DsQbrCjgKrvdPd6RrNfPZ11n9e",
+        "hex": "0x638053e528ffe3a54e5e7932e262065c1430ffb2ed2a6f288ba041fa3573b8bb"
+      },
+      "from": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "network": "finney",
+      "block_number": 4165017,
+      "timestamp": "2024-10-31T17:47:24.002Z",
+      "amount": "1000000000",
+      "fee": "124559",
+      "transaction_hash": "0xfbed72de0e5a2fd0e4aa1393e5ca535fe6a5de1ee56e7cb3940a52ba4ad5eaba",
+      "extrinsic_id": "4165017-0012"
+    },
+    {
+      "id": "finney-4058659-0031",
+      "to": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "from": {
+        "ss58": "5GBMXTMV7A6wt1VwjjJ8wGvAto7BsGXn2YMZWLef1ZmTEbfY",
+        "hex": "0xb60335e2ccf9cefd70c883e37f0878cc7995cb3f329b8e1acd990193181bec06"
+      },
+      "network": "finney",
+      "block_number": 4058659,
+      "timestamp": "2024-10-16T22:31:12.003Z",
+      "amount": "63295837326",
+      "fee": "124561",
+      "transaction_hash": "0xf47e8e5190d9f0854208be89ead6c6a51be95b287478fa9d6c7705c8226768e1",
+      "extrinsic_id": "4058659-0012"
+    },
+    {
+      "id": "finney-4057967-0038",
+      "to": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "from": {
+        "ss58": "5GP8N57T2oja6qR9y3FQDYjrEFxnhmx3ZuiadE64yw6h5For",
+        "hex": "0xbefdd94cdeeacbf8b273d99710ce7e26b19248ebda2813ba85343164740e5145"
+      },
+      "network": "finney",
+      "block_number": 4057967,
+      "timestamp": "2024-10-16T20:12:24Z",
+      "amount": "100000000",
+      "fee": "124560",
+      "transaction_hash": "0xd78ca85fbfad7a2b1da88955ada862daa1d3fedb1d67c0f5404b8aebdd1e5e8b",
+      "extrinsic_id": "4057967-0012"
+    },
+    {
+      "id": "finney-208860-0002",
+      "to": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "from": {
+        "ss58": "5G3qgRTQry1qL1chaCcS2Xb1AaitSPG6F53xyvXvtL5zBMpX",
+        "hex": "0xb048062c877ed52c99b6e19718339907b2f653ff4bd30a99d9490b035a147b3b"
+      },
+      "network": "finney",
+      "block_number": 208860,
+      "timestamp": "2023-04-18T19:01:00.004Z",
+      "amount": "66946000000000",
+      "fee": "147",
+      "transaction_hash": "0xe0d4ecedf3e0672cb17349207c85ac9f303fbb1b834de833e8a003e8f14a0199",
+      "extrinsic_id": "208860-0001"
+    },
+    {
+      "id": "finney-208851-0004",
+      "to": {
+        "ss58": "5FZ3kzkS3tC1DfY3f4k6TY9Jd8cPVTAJpxDWEo5sYo6a3pBa",
+        "hex": "0x9a5291870097ef2f8eb6f2f30501f9ffc7335ecd4bdd411b8cca5cb0d44d6020"
+      },
+      "from": {
+        "ss58": "5G3qgRTQry1qL1chaCcS2Xb1AaitSPG6F53xyvXvtL5zBMpX",
+        "hex": "0xb048062c877ed52c99b6e19718339907b2f653ff4bd30a99d9490b035a147b3b"
+      },
+      "network": "finney",
+      "block_number": 208851,
+      "timestamp": "2023-04-18T18:59:12.003Z",
+      "amount": "1000000000",
+      "fee": "144",
+      "transaction_hash": "0x870820d34d7eacc492216342a0086e2aaff80b8e51e077a04bcc9b4ff6c54a34",
+      "extrinsic_id": "208851-0001"
+    }
+  ]
+}
